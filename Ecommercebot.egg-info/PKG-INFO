@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: Ecommercebot
+Version: 0.0.1
+Author: janak
+Author-email: janakrajojha230@gmail.com
+Requires-Dist: langchain-astradb
+Requires-Dist: langchain
+Requires-Dist: datasets
+Requires-Dist: pypdf
+Requires-Dist: python-dotenv
+Requires-Dist: flask
+Requires-Dist: transformers
+Requires-Dist: huggingface_hub

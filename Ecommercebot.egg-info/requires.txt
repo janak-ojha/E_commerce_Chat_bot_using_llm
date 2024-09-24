@@ -1,0 +1,8 @@
+langchain-astradb
+langchain
+datasets
+pypdf
+python-dotenv
+flask
+transformers
+huggingface_hub
